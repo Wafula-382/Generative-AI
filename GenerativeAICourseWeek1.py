@@ -11,7 +11,7 @@ main{
     print("5. Data Augmentation: Enhancing training datasets by generating synthetic data.")
     print("Generative AI is being used in various industries such as entertainment, healthcare, marketing, and design to enhance creativity, improve efficiency, and provide personalized experiences.")
 }
-    create simple python with vs}Let get started with some hands-on experience!
+    create{simple python with vs}Let get started with some hands-on experience!
 # Simple Python with VS Code
 create{simple python with vs}Let's get started with some hands-on experience!}
     explore{explore python basics},{Explore Python Basics}
